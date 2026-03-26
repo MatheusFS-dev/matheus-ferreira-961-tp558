@@ -1,0 +1,2 @@
+rayleigh_idealOP: 0.00601200
+rician_idealOP: 0.00009800
